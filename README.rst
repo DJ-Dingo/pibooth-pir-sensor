@@ -47,8 +47,8 @@ Here we use an hc-sr501, but it works with any PIR-sensor
 - Set the delay all the way to the left 0.3 sec.
 - Set the Sensitivity/Distance all the way to the right. (lower it if you need to, or use trick 1 or 2).
 
-Tricks to make PIR, less sensitive but still respond.
 
+Tricks to make PIR, less sensitive but still respond.
 - There are 2 things you can do. Take off the white plastic shield.
 
 .. image:: https://raw.githubusercontent.com/DJ-Dingo/pibooth-pir-sensor/master/templates/pir-sensor-no-shield.png
