@@ -36,12 +36,12 @@ Configuration
    :align: center
    :alt: PIR-sensor info
 
-Most commen PIR-sensors hc-sr501, hc-sr505 Mini``|`` 
-We use hc-sr501 here, but it works with any PIR-sensor
+Most commen PIR-sensors hc-sr501, hc-sr505 Mini
+- Here we use and hc-sr501, but it works with any PIR-sensor
 
 - Set the jumper to single trigger.
-- Set the sensitivity all the way to the right. (lower it if you need to, or use some tricks).
 - Set the delay all the way to the left 0.3 sec.
+- Set the Sensitivity/Distance all the way to the right. (lower it if you need to, or use trick 1 or 2).
 
 Tricks to make PIR, less sensitive but still respond.
 - There are 2 things you can do. Take off the white plastic shield.
@@ -49,7 +49,7 @@ Tricks to make PIR, less sensitive but still respond.
 .. image:: https://raw.githubusercontent.com/DJ-Dingo/pibooth-pir-sensor/master/templates/pir-sensor-no-shield.png
 
 
-1. Take an old pen and use the plastic part to make the PIR work more directly, by putting it over the PIR sensor
+1. Take an old pen and use the plastic part by putting it over the PIR sensor, to make the PIR work more directly
 2. Or fill the white plastic shield, except for a small hole
 
 
