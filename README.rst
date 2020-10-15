@@ -1,4 +1,5 @@
-
+.. role:: raw-html(raw)
+    :format: html
 ====================
 pibooth-pir-sensor
 ====================
