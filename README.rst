@@ -7,7 +7,7 @@ pibooth-pir-sensor
 
 ``pibooth-pir-sensor`` is a plugin for the `pibooth`_ application.
 
-.. image:: https://raw.githubusercontent.com/DJ-Dingo/pibooth-pir-sensor/master/templates/pir.png
+.. image:: https://raw.githubusercontent.com/DJ-Dingo/pibooth-pir-sensor/master/templates/pir-sensors.png
    :align: center
    :alt: PIR sensor
 
