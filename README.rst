@@ -65,7 +65,7 @@ Circuit diagram
 Wiring
 ------
 
-.. image:: https://raw.githubusercontent.com/DJ-Dingo/pibooth-pir-sensor/master/templates/pir-sensor-wirring.png
+.. image:: https://github.com/DJ-Dingo/pibooth-pir-sensor/blob/master/templates/pir-sensor-wirring.png
    :align: center
    :alt:  PIR-sensor Wirring
 
