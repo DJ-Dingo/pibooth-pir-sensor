@@ -20,16 +20,16 @@ __version__ = "1.0.0"
 pir = MotionSensor("BOARD32")
 led = LEDBoard("BOARD23")
 
-delay = 6 # set number of seconds delay with no motion before Reset
+delay = 180 # set number of seconds delay with no motion before Reset (Default 2 min.)
 
 def sounddelay(time):
     # set number of seconds before sound starts after motion detected
     # THIS WILL BE ADDED AS EXTRA-TIME TO THE LIGHTOFF TIMER
-    time.sleep(2)
+    time.sleep(1)
     
 def lightoff(time):
     # set number of seconds before light turn off
-    time.sleep(10)
+    time.sleep(7)
 
 
 while True:
