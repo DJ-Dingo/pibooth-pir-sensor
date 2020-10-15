@@ -12,7 +12,10 @@ pibooth-pir-sensor
    :alt: PIR sensor
 
 
-PIR sensor for Pibooth. It plays a random sound & turn on a light when there are motion. It runs automatic if someone activate the PIR-sensor, after a 2 minute countdown period has expired without any motion. That way it can turn on a light, and say "Hello, wanna take a photo" too a person if they walk by the Pibooth Selfiecam.
+PIR sensor for Pibooth. :raw-html:`<br />` 
+It plays a random sound & turn on a light when there are motion. :raw-html:`<br />`
+It runs automatic if someone activate the PIR-sensor, after a 2 minute countdown period has expired without any motion. :raw-html:`<br />`
+That way it can turn on a light, and say "Hello, wanna take a photo" too a person if they walk by the Pibooth Selfiecam.
 
 This is not a plugin yet, run it in the background.
 
@@ -36,9 +39,8 @@ Configuration
    :align: center
    :alt: PIR-sensor info
 
-Most commen PIR-sensors hc-sr501, hc-sr505 Mini
-
-- Here we use an hc-sr501, but it works with any PIR-sensor
+Most commen PIR-sensors hc-sr501, hc-sr505 Mini :raw-html:`<br />`
+Here we use an hc-sr501, but it works with any PIR-sensor
 
 - Set the jumper to single trigger.
 - Set the delay all the way to the left 0.3 sec.
