@@ -51,7 +51,7 @@ Here we use an hc-sr501, but it works with any PIR-sensor
 Tricks to make PIR, less sensitive but still respond.
 - There are 2 things you can do. Take off the white plastic shield.
 
-.. image:: https://raw.githubusercontent.com/DJ-Dingo/pibooth-pir-sensor/master/templates/pir-sensor-no-shield.png
+.. image:: https://raw.githubusercontent.com/DJ-Dingo/pibooth-pir-sensor/master/templates/pir-sensor-no-shield2.png
 
 
 1. Take an old pen and use the plastic part by putting it over the PIR sensor, to make the PIR work more directly
