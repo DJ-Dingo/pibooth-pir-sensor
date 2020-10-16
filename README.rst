@@ -48,7 +48,7 @@ Here we use an hc-sr501, but it works with any PIR-sensor
 - Set the Sensitivity/Distance all the way to the right. (lower it if you need to, or use trick 1 or 2).
 
 
-Tricks to make PIR, less sensitive but still respond.
+Tricks to make PIR, less sensitive but still respond. :raw-html:`<br />`
 - There are 2 things you can do. First take off the Fresnel Lens "white plastic cover".
 
 1. Take an old ball pen and use the plastic or rubber part by putting it over the PIR sensor, to make the PIR work more direct.
