@@ -51,12 +51,14 @@ Here we use an hc-sr501, but it works with any PIR-sensor
 Tricks to make PIR, less sensitive but still respond.
 - There are 2 things you can do. First take off the Fresnel Lens "white plastic cover".
 
-.. image:: https://raw.githubusercontent.com/DJ-Dingo/pibooth-pir-sensor/master/templates/pir-sensor-no-shield2.png
-
-
 1. Take an old ball pen and use the plastic or rubber part by putting it over the PIR sensor, to make the PIR work more direct.
 2. Or fill the Fresnel Lens "white plastic cover" with some paper towel or tin foil, except for a small hole. 
    IMPORTENT, make shure the tin foil does not have contact with the circuit board.
+
+
+.. image:: https://raw.githubusercontent.com/DJ-Dingo/pibooth-pir-sensor/master/templates/pir-sensor-no-shield2.png
+   :align: center
+   :alt:  PIR-sensor no shield
 
 
 States description
