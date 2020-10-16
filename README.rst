@@ -79,6 +79,13 @@ Wiring
 - GND: Pin   (GND)
 
 
+To prevent false motion, you can use a Ferrite around the 3 wire, or solder one on V and TTL . 
+
+.. image:: https://github.com/DJ-Dingo/pibooth-pir-sensor/blob/master/templates/ferrite_.png
+   :align: center
+   :alt:  PIR-sensor Wirring
+
+
 .. --- Links ------------------------------------------------------------------
 
 .. _`pibooth`: https://pypi.org/project/pibooth
