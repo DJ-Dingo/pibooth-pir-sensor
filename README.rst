@@ -79,7 +79,7 @@ Wiring
 - GND: Pin   (GND)
 
 
-To prevent false motion, you can use a Ferrite around the 3 wire, or solder one on V and TTL . 
+To prevent false motion, you can use a Clip Ferrite around the 3 wire, or solder one between the wire VCD and again one between the wire and OUT.
 
 .. image:: https://github.com/DJ-Dingo/pibooth-pir-sensor/blob/master/templates/ferrite_.png
    :align: center
