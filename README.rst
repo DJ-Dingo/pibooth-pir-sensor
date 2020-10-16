@@ -36,7 +36,7 @@ Install
 Configuration
 -------------
 
-.. image:: https://raw.githubusercontent.com/DJ-Dingo/pibooth-pir-sensor/master/templates/pir-sensor-info2.png
+.. image:: https://raw.githubusercontent.com/DJ-Dingo/pibooth-pir-sensor/master/templates/pir-sensor-info.png
    :align: center
    :alt: PIR-sensor info
 
