@@ -53,7 +53,7 @@ First take off the Fresnel Lens "white plastic cover".
 
 1. Take an old ball pen and use the plastic or rubber part by putting it over the PIR sensor, to make the PIR work more direct.
 2. Or fill the Fresnel Lens "white plastic cover" with some paper towel or tin foil, except for a small hole.  :raw-html:`<br />`
-   IMPORTENT, make shure the tin foil does not have contact with the circuit board.
+   IMPORTANT, make shure the tin foil does not have contact with the circuit board.
 
 
 .. image:: https://raw.githubusercontent.com/DJ-Dingo/pibooth-pir-sensor/master/templates/pir-sensor-no-shield2.png
