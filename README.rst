@@ -68,6 +68,7 @@ States description
 
 Circuit diagram
 ---------------
+Here is the diagram for hardware connections.
 
 .. image:: https://github.com/DJ-Dingo/pibooth-pir-sensor/blob/master/templates/Pibooth-Pir-Sensor%20Sketch_bb.png
    :align: center
@@ -80,10 +81,10 @@ Wiring
    :align: center
    :alt:  PIR-sensor Wirring
 
-  GPIO
-- VCC: Pin   (3V or 5v)
-- OUT: Pin   (OUT)
-- GND: Pin   (GND)
+  PIR - IMPORTEN look at your PIR for details
+- VCC: Pin      (3V or 5v)
+- OUT: Pin-GPIO (OUT)
+- GND: Pin      (GND)
 
 
 To prevent false motion, you can use Ferrite etc a **Clip On Soft Ferrite Ring** around the 3 wire  :raw-html:`<br />` 
