@@ -25,13 +25,23 @@ This is not a plugin yet, run it in the background.
 
 Adds an PIR sensor to the pibooth
 
+Requirements
+------------
 
+Hardware
+^^^^^^^^
+
+* 1 Raspberry Pi 3 Model B (or higher)
+* 1 PIR sensor hc-sr501 or hc-sr505 Mini (but any PIR will work)
+* 2 Ferrite **2810138-50r-10** - (or **hf30acb321611-t**) 
+    or just 1 **Clip On Soft Ferrite Ring** around all 3 wire
+* 1 LED
+* 2 resistors 1 100 Ohm, 1 1k Ohm
 
 Install
 -------
 
 ::
-
 
 Configuration
 -------------
