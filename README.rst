@@ -31,12 +31,12 @@ Requirements
 Hardware
 ^^^^^^^^
 
-* 1 Raspberry Pi 3 Model B (or higher)
-* 1 PIR sensor hc-sr501 or hc-sr505 Mini (but any PIR will work)
-* 2 Ferrite 2810138-50r-10 - (you can also use 2 hf30acb321611-t)
-    Or just 1 Clip On Soft Ferrite Ring around all 3 wire
-* 1 LED
-* 2 Resistors 1 100 Ohm, 1 1k Ohm
+* 1 Raspberry Pi 3 Model B (or higher) :raw-html:`<br />`
+* 1 PIR sensor hc-sr501 or hc-sr505 Mini (but any PIR will work) :raw-html:`<br />`
+* 2 Ferrite **2810138-50r-10** (you can also use hf30acb321611-t) :raw-html:`<br />`
+    Or just 1 Clip On Soft Ferrite Ring around all 3 wire  :raw-html:`<br />`
+* 1 LED  :raw-html:`<br />`
+* 2 Resistors 1 100 Ohm, 1 1k Ohm  :raw-html:`<br />`
 
 Install
 -------
