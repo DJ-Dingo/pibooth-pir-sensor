@@ -73,6 +73,7 @@ First take off the Fresnel Lens "white plastic cover".
 
 States description
 ------------------
+Missing Picture
 
  
 
