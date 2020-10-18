@@ -76,16 +76,15 @@ Here is the diagram for hardware connections.
 
 Wiring
 ------
+PIR - look at your PIR for correct details
 
 .. image:: https://github.com/DJ-Dingo/pibooth-pir-sensor/blob/master/templates/pir-sensor-wirring.png
    :align: center
    :alt:  PIR-sensor Wirring
 
-  PIR - IMPORTEN look at your PIR for details
 - VCC: Pin      (3V or 5v)
 - OUT: Pin-GPIO (OUT)
 - GND: Pin      (GND)
-
 
 To prevent false motion, you can use Ferrite etc a **Clip On Soft Ferrite Ring** around the 3 wire  :raw-html:`<br />` 
 Or solder a Ferrite **2810138-50r-10** or **hf30acb321611-t** between the wire from the GPIO and VCC on the PIR  :raw-html:`<br />`
