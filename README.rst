@@ -96,7 +96,7 @@ Wiring
 PIR - look at your PIR for correct details
 
 - VCC: Pin      (3V or 5v)
-- OUT: Pin-GPIO (OUT)
+- OUT: Pin-GPIO (OUT) - If you use 5v, you should use a resister R2, 1K ohm between OUT and GPIO on your Rpi.
 - GND: Pin      (GND)
 
 Ferrite
