@@ -41,7 +41,10 @@ Hardware
 Install
 -------
 
-::
+:: This is not a plugin yet, run it in the background.
+
+:: How to Setup comming soon
+
 
 Configuration
 -------------
