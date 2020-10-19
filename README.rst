@@ -101,7 +101,7 @@ PIR - look at your PIR for correct details
 
 Ferrite
 ^^^^^^^
-To prevent false motion, you can use Ferrite etc a **Clip On Soft Ferrite Ring** around the 3 wire  :raw-html:`<br />` 
+To prevent **false motion**, you can use Ferrite etc a **Clip On Soft Ferrite Ring** around the 3 wire  :raw-html:`<br />` 
 
 .. image:: https://github.com/DJ-Dingo/pibooth-pir-sensor/blob/master/templates/ferrite_pir.png
    :align: center
