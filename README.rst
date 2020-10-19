@@ -94,7 +94,7 @@ Wiring
 ------
 PIR - look at your PIR for correct details
 
-.. image:: https://github.com/DJ-Dingo/pibooth-pir-sensor/blob/master/templates/pir-sensor-wirring.png
+.. image:: https://github.com/DJ-Dingo/pibooth-pir-sensor/blob/master/templates/ferrite_pir.png
    :align: center
    :alt:  PIR-sensor Wirring
 
