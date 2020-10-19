@@ -25,6 +25,8 @@ This is not a plugin yet, run it in the background.
 
 Adds an PIR sensor to the pibooth
 
+.. contents::
+
 Requirements
 ------------
 
