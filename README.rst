@@ -62,7 +62,8 @@ Here we use an hc-sr501, but it works with any PIR-sensor
 - Set the delay all the way to the left 0.3 sec.
 - Set the Sensitivity/Distance all the way to the right. (lower it if you need to, or use trick 1 or 2).
 
-
+Tricks
+^^^^^^
 Tricks to make PIR, less sensitive but still respond. There are 2 things you can do. :raw-html:`<br />`
 First take off the Fresnel Lens "white plastic cover".
 
@@ -98,6 +99,8 @@ PIR - look at your PIR for correct details
 - OUT: Pin-GPIO (OUT)
 - GND: Pin      (GND)
 
+Ferrite
+^^^^^^^
 To prevent false motion, you can use Ferrite etc a **Clip On Soft Ferrite Ring** around the 3 wire  :raw-html:`<br />` 
 
 .. image:: https://github.com/DJ-Dingo/pibooth-pir-sensor/blob/master/templates/ferrite_pir.png
