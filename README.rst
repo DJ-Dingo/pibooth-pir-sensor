@@ -87,7 +87,7 @@ Circuit diagram
 ---------------
 Here is the diagram for hardware connections.
 
-.. image:: https://github.com/DJ-Dingo/pibooth-pir-sensor/blob/master/templates/Pibooth-Pir-Sensor Sketch_2__bb.png
+.. image:: https://github.com/DJ-Dingo/pibooth-pir-sensor/blob/master/templates/Pibooth-Pir-Sensor%20Sketch_2__bb.png
    :align: center
    :alt:  PIR-sensor Electronic sketch
 
