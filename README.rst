@@ -78,9 +78,10 @@ First take off the Fresnel Lens "white plastic cover".
 
 States description
 ------------------
-Missing Picture
 
- 
+.. image:: https://github.com/DJ-Dingo/pibooth-pir-sensor/blob/master/templates/state-sequence-pir-sensor.png
+   :align: center
+   :alt:  PIR-sensor no shield
 
 Circuit diagram
 ---------------
