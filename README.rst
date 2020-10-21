@@ -38,7 +38,7 @@ Hardware
 * 2 Ferrite 2810138-50r-10 (you can also use hf30acb321611-t) :raw-html:`<br />`
 *   Or as we done in this project 1 Clip On Soft Ferrite Ring, around all 3 wire  :raw-html:`<br />`
 * 1 LED  :raw-html:`<br />`
-* 2 Resistors 1 x 100 Ohm, 1 x 1k Ohm  :raw-html:`<br />`
+* 2 Resistors 1 x 100 Ohm :raw-html:`<br />`
 
 Install
 -------
