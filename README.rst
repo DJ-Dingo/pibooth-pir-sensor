@@ -97,7 +97,7 @@ Wiring
 ------
 PIR - look at your PIR for correct details
 
-- VCC: Pin      (5v)  - You can use 3V, but many PIRs make more false motion with only 3v
+- VCC: Pin      (5v)  - You can use 3.3V, but many PIRs make more false motion with only 3.3v
 - OUT: Pin-GPIO (OUT) - Never source or sink more than 0.5 mA into an GPIO input pin, you can use a resister to prevent that
 - GND: Pin      (GND)
 
