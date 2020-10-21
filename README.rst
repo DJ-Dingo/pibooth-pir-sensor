@@ -82,7 +82,7 @@ States description
 
 .. image:: https://github.com/DJ-Dingo/pibooth-pir-sensor/blob/master/templates/state-sequence-pir-sensor.png
    :align: center
-   :alt:  PIR-sensor no shield
+   :alt:  State sequence
 
 
 Circuit diagram
